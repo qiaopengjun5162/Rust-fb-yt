@@ -48,11 +48,8 @@ string s: "{\n  \"error\" : \"Permission denied\"\n}\n"
 
 ### 更多参考
 
-[
-    - https://console.firebase.google.com/u/0/project/fb-rust-c9a1a/database/fb-rust-c9a1a-default-rtdb/rules?hl=zh-cn
-    - https://github.com/firebase/quickstart-js/issues/239
-
-]
+- <https://console.firebase.google.com/u/0/project/fb-rust-c9a1a/database/fb-rust-c9a1a-default-rtdb/rules?hl=zh-cn>
+- <https://github.com/firebase/quickstart-js/issues/239>
 
 ## 运行
 
